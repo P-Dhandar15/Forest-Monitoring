@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monitor</title>
+    <link rel="stylesheet" type="text/css" href="monitor.css">
+    <script src="monitor.js"></script>
+
+</head>
+<body>
+    <h1>Forest Monitoring System</h1>
+
+    <p>You are real-time monitoring the Forest</p>
+
+    <table>
+        
+        <tr>
+          <td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/2161862/widgets/658345"></iframe>
+            <p>Temperature</p>
+          </td>
+
+          <td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/2161862/widgets/656824"></iframe>
+                <p>Humidity</p>
+          </td>
+        </tr>
+
+        <tr>
+          <td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/2161862/widgets/656826"></iframe>
+                <p>Fire Indicator</p>
+          </td>
+          <td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/2161862/widgets/656825"></iframe>
+                <p>Smoke Indicator</p>
+          </td>
+        </tr>
+
+        <tr>
+          <td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/2161862/widgets/656827"></iframe>
+                <p>Rain Indicator</p>
+          </td>
+          <td><button class="button" onclick="openGraph()" >Graphs</button>
+                <p>Analysis Graphs</p>
+          </td>
+        </tr>
+      </table>
+
+</body>

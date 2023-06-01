@@ -1,0 +1,79 @@
+body {
+    background-color: #2eeb9f;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive;
+    position: relative;
+    top: 10px;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+    position: relative;
+    top: 20px;
+}
+
+table {
+    border-spacing: 70px;
+    position: relative;
+    top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .name{
+    text-align: center;
+    font-size: 18px;
+    font-family: cursive;
+    position: relative;
+    top: 2px;
+  }
+  
+  .my-button1 {
+    padding: 10px 20px;
+    border: 2px solid #030303;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  .my-button1:hover {
+    background-color: #34e710;
+    color: #000000;
+    border-color: #111111;
+  }
+
+  .my-button2 {
+    padding: 10px 20px;
+    border: 2px solid #030303;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  .my-button2:hover {
+    background-color: #34e710;
+    color: #000000;
+    border-color: #111111;
+  }
+  
+  .my-button3 {
+    padding: 10px 20px;
+    border: 2px solid #030303;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  .my-button3:hover {
+    background-color: #34e710;
+    color: #000000;
+    border-color: #111111;
+  }
