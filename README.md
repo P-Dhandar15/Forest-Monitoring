@@ -14,4 +14,4 @@ https://youtu.be/i-E_SPcEpKc?si=DNyb35hYb0qJp226
 
 Scan the QR Code to visit the Dashboard.
 
-<img src="https://github.com/P-Dhandar15/Forest-Monitoring/assets/130864863/832082fb-18f2-4fcb-9137-05a1cfeca4ff" width="100" height="100">
+<img src="https://github.com/P-Dhandar15/Forest-Monitoring/assets/130864863/832082fb-18f2-4fcb-9137-05a1cfeca4ff" width="400" height="350">
