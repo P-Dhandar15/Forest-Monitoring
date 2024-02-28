@@ -11,3 +11,7 @@ Sensors/components required :
 
 Project demonstration video on YouTube :-
 https://youtu.be/i-E_SPcEpKc?si=DNyb35hYb0qJp226
+
+Scan the QR Code to visit the Dashboard.
+
+<img src="<img src="https://your-image-url.type" width="100" height="100">" width="400" height="350">
